@@ -7,3 +7,6 @@
 4. Simpson
 ### Homework Problem Contained in Repository
 1. Gas Tank Homework Problem
+
+Note:
+These algorithms were designed based off of similar algorithms in my numerical textbook.

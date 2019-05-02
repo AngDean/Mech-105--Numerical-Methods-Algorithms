@@ -1,7 +1,6 @@
 function [nd] = days(mo,da,leap)
-
 leap = input('If leap year enter 1, if not enter 0');
-if leap == inf > 2
+if leap ~= 1:2
     error('Put in 1 for it is a leap year or 0 for not a leap year')
 end
 
@@ -69,4 +68,3 @@ else
     end
 end
 end
-

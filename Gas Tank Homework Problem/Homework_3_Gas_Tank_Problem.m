@@ -3,7 +3,7 @@
 % By: Angela Dean
 % Description: The user would nomrally input the height of the fuel in the
 % tank, but the h will be equal to 20. The goal of this algorithm is to
-% find the volume of the liquid in the tank. The tank is a inverted frustum
+% find the volume of the liquid in the tank. The tank is an inverted frustum
 % and cylinder combined.
 
 close all

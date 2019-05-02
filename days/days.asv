@@ -8,7 +8,7 @@ function [nd] = days(mo,da,leap)
 %   da: The current day
 %   leap: If the year is a leap year or not
 % Outputs:
-%   nd: How many days has passed since the first day of the new year
+%   nd: How many days has passed since the first
 %--------------------------------------------------------------------------
 if leap ~= 0:1
     error('Put in 1 for it is a leap year or 0 for not a leap year')

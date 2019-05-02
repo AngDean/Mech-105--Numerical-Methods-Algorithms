@@ -1,4 +1,9 @@
 # Mech 105: Numerical Methods Algorithms
-This respository is filled with functions I have created or small algorithms for a homework problem.
-
-This repository should contain funtions: days, falsePosition, luFactor, and Simpson.
+## This repository contains algorithms created for a numerical methods class. Most of the algorithms are functions and one algorithm is for a homework problem.
+### Functions Contained in Repository
+1. days
+2. falsePosition
+3. luFactor
+4. Simpson
+### Homework Problem
+1. Gas Tank Homework Problem

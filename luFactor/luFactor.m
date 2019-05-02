@@ -6,7 +6,7 @@ function [L,U,P] = luFactor(A)
     % The function is to determine the LU Factorization of a square matrix
     % by breaking up A into a lower and upper triangular matrix. This 
     % function should be able to do any size of a square matrix and be able
-    % to do partial pivoting. In the end the matricies multiplied together,
+    % to do partial pivoting. In the end the matrices multiplied together,
     % L*U = P*A should equal each other. If you wanted to find the actual
     % valus of the variables you begin back-substitution, but will need
     % what the systems of equations equate to. 

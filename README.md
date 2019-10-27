@@ -9,4 +9,4 @@
 1. Gas Tank Homework Problem
 
 ## Note
-Some of these algorithms were designed based off of similar algorithms in my numerical textbook.
+Some of these algorithms were designed based off of similar algorithms in my numerical methods textbook.
